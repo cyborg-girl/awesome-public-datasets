@@ -428,15 +428,18 @@ Public Domains
 * `Data.World <https://data.world>`_
 * `Data360 <http://www.data360.org/index.aspx>`_
 * `Google <http://www.google.com/publicdata/directory>`_
+* `Google BigQuery Public Datasets <https://cloud.google.com/bigquery/public-data/>`_
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
 * `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
+* `Microsoft Research Open Data <https://msropendata.com/>`_
 * `Numbray <http://numbrary.com/>`_
 * `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
 * `Reddit Datasets <https://www.reddit.com/r/datasets>`_
 * `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
 * `Sample R data sets <http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html>`_
+* `Skymind Open Datasets <https://skymind.ai/wiki/open-datasets>`_
 * `Stats4Stem R data sets <http://www.stats4stem.org/data-sets.html>`_
 * `StatSci.org <http://www.statsci.org/datasets.html>`_
 * `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
