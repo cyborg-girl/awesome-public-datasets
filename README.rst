@@ -600,6 +600,7 @@ Transportation
 Complementary Collections
 -------------------------
 
+* `Kaggle Datasets <https://www.kaggle.com/datasets/>`_
 * `Data Packaged Core Datasets <https://github.com/datasets/>`_
 * `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
 * A growing collection of public datasets: `CoolDatasets. <http://cooldatasets.com/>`_
